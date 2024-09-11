@@ -41,9 +41,9 @@ In the system, the ranking strategy involves a combination of two key factors:
 
 - Access the endpoints 
 
-  Google Search: `http://localhost:8080/google/search?query=example`
-  YouTube Search: `http://localhost:8080/youtube/search?query=example`
-  Combined Search: `http://localhost:8080/search?query=example`
+  - Google Search: `http://localhost:8080/google/search?query=example`
+  - YouTube Search: `http://localhost:8080/youtube/search?query=example`
+  - Combined Search: `http://localhost:8080/search?query=example`
 
 
 
