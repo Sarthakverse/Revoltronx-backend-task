@@ -45,6 +45,12 @@ In the system, the ranking strategy involves a combination of two key factors:
   - YouTube Search: `http://localhost:8080/youtube/search?query=example`
   - Combined Search: `http://localhost:8080/search?query=example`
 
+# Screenshots
+![Screenshot 2024-09-12 011340](https://github.com/user-attachments/assets/cb5e3b2b-d48d-43f4-9452-3ed6ea7a1729)
+![Screenshot 2024-09-12 011404](https://github.com/user-attachments/assets/8c5cdafe-f06d-4ed5-a5d7-39b1203713f8)
+![Screenshot 2024-09-12 011414](https://github.com/user-attachments/assets/3f3a4013-8aaa-499f-a70b-10ed7c0da037)
+![Screenshot 2024-09-12 011424](https://github.com/user-attachments/assets/9d92cb19-73a4-46c7-94ad-533bd6da9e6b)
+
 
 
 
