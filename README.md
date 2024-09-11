@@ -27,11 +27,11 @@ In the system, the ranking strategy involves a combination of two key factors:
   cd revoltronx-backend-task
 ```
 
-- Setup api keys
+- Setup application.properties file
 - ```http
-  export GOOGLE_API_KEY=your-google-api-key
-  export GOOGLE_CUSTOM_SEARCH_ENGINE_ID=your-search-engine-id
-  export YOUTUBE_API_KEY=your-youtube-api-key
+  youtube.api.key = your-youtube-api-key
+  google.custom.search.engine.id = your-search-engine-id
+  google.api.key = google-api-key
   ```
 - install dependencies
  `mvn clean install`
